@@ -1,0 +1,324 @@
+[
+    {
+        "folders": [
+            {
+                "folders": [], 
+                "usageCount": 0, 
+                "modes": [], 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": null, 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "title": "Addresses", 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "items": [
+                    {
+                        "usageCount": 0, 
+                        "omitTrigger": false, 
+                        "prompt": false, 
+                        "description": "Home Address", 
+                        "abbreviation": {
+                            "ignoreCase": false, 
+                            "wordChars": "[\\w]", 
+                            "immediate": false, 
+                            "abbreviation": "adr", 
+                            "backspace": true, 
+                            "triggerInside": false
+                        }, 
+                        "hotkey": {
+                            "hotKey": null, 
+                            "modifiers": []
+                        }, 
+                        "phrase": "22 Avenue Street\nBrisbane\nQLD\n4000", 
+                        "modes": [
+                            1
+                        ], 
+                        "showInTrayMenu": false, 
+                        "matchCase": false, 
+                        "filter": null, 
+                        "type": "phrase", 
+                        "sendMode": "kb"
+                    }
+                ], 
+                "filter": null, 
+                "type": "folder", 
+                "showInTrayMenu": false
+            }
+        ], 
+        "usageCount": 121, 
+        "modes": [
+            3
+        ], 
+        "abbreviation": {
+            "ignoreCase": false, 
+            "wordChars": "[\\w]", 
+            "immediate": false, 
+            "abbreviation": null, 
+            "backspace": true, 
+            "triggerInside": false
+        }, 
+        "title": "My Phrases", 
+        "hotkey": {
+            "hotKey": "<f7>", 
+            "modifiers": [
+                "<ctrl>"
+            ]
+        }, 
+        "items": [
+            {
+                "usageCount": 18, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex img", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".img", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": "i", 
+                    "modifiers": [
+                        "<ctrl>", 
+                        "<shift>"
+                    ]
+                }, 
+                "phrase": "http://scribb.com/memex/img/", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 78, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex subtype", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".subt", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "* [[has subtype::", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 8, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex subst article", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".subart", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "{{subst::Template:Reading material - article}}", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 6, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex consist of", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".consof", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "* [[consists of::", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 9, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex utube", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".utub", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "{{#ev:youtube|", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 1, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex highlight", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": true, 
+                    "abbreviation": ".hilite", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "<span style=\"background:#FFC04D;\"> </span>", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 1, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex also called", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".alsocal", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "(also called [[also called::]])", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 0, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "memex has subject", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": ".subj", 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "[[has subject::", 
+                "modes": [
+                    1
+                ], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }, 
+            {
+                "usageCount": 0, 
+                "omitTrigger": false, 
+                "prompt": false, 
+                "description": "date", 
+                "abbreviation": {
+                    "ignoreCase": false, 
+                    "wordChars": "[\\w]", 
+                    "immediate": false, 
+                    "abbreviation": null, 
+                    "backspace": true, 
+                    "triggerInside": false
+                }, 
+                "hotkey": {
+                    "hotKey": null, 
+                    "modifiers": []
+                }, 
+                "phrase": "Enter phrase contents", 
+                "modes": [], 
+                "showInTrayMenu": false, 
+                "matchCase": false, 
+                "filter": null, 
+                "type": "phrase", 
+                "sendMode": "kb"
+            }
+        ], 
+        "filter": null, 
+        "type": "folder", 
+        "showInTrayMenu": false
+    }
+]
