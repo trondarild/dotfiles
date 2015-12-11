@@ -1,0 +1,26 @@
+2015-12-11 20:04:44,396 INFO - root - Initialising application
+2015-12-11 20:04:46,086 INFO - root - Initialise global hotkeys
+2015-12-11 20:04:46,092 INFO - config-manager - No configuration found - creating new one
+2015-12-11 20:04:46,197 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:46,204 INFO - config-manager - Persisting configuration
+2015-12-11 20:04:46,211 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:04:46,217 INFO - service - Starting service
+2015-12-11 20:04:49,257 INFO - interface - XRecord interface thread starting
+2015-12-11 20:04:49,264 INFO - service - Service now marked as running
+2015-12-11 20:04:51,540 INFO - root - Entering main()
+2015-12-11 20:04:52,593 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:53,123 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:54,129 INFO - config-manager - Reloading global configuration
+2015-12-11 20:04:54,137 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:54,139 INFO - config-manager - Successfully reloaded global configuration
+2015-12-11 20:04:55,144 INFO - config-manager - Reloading global configuration
+2015-12-11 20:04:55,147 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:55,149 INFO - config-manager - Successfully reloaded global configuration
+2015-12-11 20:04:57,480 INFO - root - Displaying configuration window
+2015-12-11 20:06:34,367 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:07:17,514 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:07:26,088 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:08:14,013 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:08:21,989 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:08:56,923 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:09:04,159 INFO - config-manager - Configuration changed - rebuilding in-memory structures
