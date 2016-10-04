@@ -1,0 +1,23 @@
+{
+    "filter": {
+        "isRecursive": false,
+        "regex": null
+    },
+    "title": "Addresses",
+    "type": "folder",
+    "usageCount": 0,
+    "showInTrayMenu": false,
+    "hotkey": {
+        "hotKey": null,
+        "modifiers": []
+    },
+    "abbreviation": {
+        "wordChars": "[\\w]",
+        "ignoreCase": false,
+        "backspace": true,
+        "immediate": false,
+        "abbreviations": [],
+        "triggerInside": false
+    },
+    "modes": []
+}

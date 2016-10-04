@@ -1,0 +1,27 @@
+{
+    "filter": {
+        "isRecursive": false,
+        "regex": null
+    },
+    "title": "My Phrases",
+    "type": "folder",
+    "usageCount": 0,
+    "showInTrayMenu": false,
+    "hotkey": {
+        "hotKey": "<f7>",
+        "modifiers": [
+            "<ctrl>"
+        ]
+    },
+    "abbreviation": {
+        "wordChars": "[\\w]",
+        "ignoreCase": false,
+        "backspace": true,
+        "immediate": false,
+        "abbreviations": [],
+        "triggerInside": false
+    },
+    "modes": [
+        3
+    ]
+}

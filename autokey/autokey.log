@@ -1,0 +1,62 @@
+2015-12-11 20:04:44,396 INFO - root - Initialising application
+2015-12-11 20:04:46,086 INFO - root - Initialise global hotkeys
+2015-12-11 20:04:46,092 INFO - config-manager - No configuration found - creating new one
+2015-12-11 20:04:46,197 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:46,204 INFO - config-manager - Persisting configuration
+2015-12-11 20:04:46,211 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:04:46,217 INFO - service - Starting service
+2015-12-11 20:04:49,257 INFO - interface - XRecord interface thread starting
+2015-12-11 20:04:49,264 INFO - service - Service now marked as running
+2015-12-11 20:04:51,540 INFO - root - Entering main()
+2015-12-11 20:04:52,593 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:53,123 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:54,129 INFO - config-manager - Reloading global configuration
+2015-12-11 20:04:54,137 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:54,139 INFO - config-manager - Successfully reloaded global configuration
+2015-12-11 20:04:55,144 INFO - config-manager - Reloading global configuration
+2015-12-11 20:04:55,147 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:04:55,149 INFO - config-manager - Successfully reloaded global configuration
+2015-12-11 20:04:57,480 INFO - root - Displaying configuration window
+2015-12-11 20:06:34,367 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:07:17,514 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:07:26,088 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:08:14,013 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:08:21,989 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:08:56,923 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:09:04,159 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:18:47,609 INFO - root - Initialising application
+2015-12-11 20:18:48,937 INFO - root - Initialise global hotkeys
+2015-12-11 20:18:48,939 INFO - config-manager - Loading config from existing file: /home/trond/.config/autokey/autokey.json
+2015-12-11 20:18:49,025 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:18:49,032 INFO - config-manager - Successfully loaded configuration
+2015-12-11 20:18:49,037 INFO - service - Starting service
+2015-12-11 20:18:50,301 INFO - interface - XRecord interface thread starting
+2015-12-11 20:18:50,305 INFO - service - Service now marked as running
+2015-12-11 20:18:52,381 INFO - root - Entering main()
+2015-12-11 20:19:24,474 INFO - root - Displaying configuration window
+2015-12-11 20:21:01,442 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:21:09,120 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:21:09,124 INFO - config-manager - Persisting configuration
+2015-12-11 20:21:09,129 INFO - config-manager - Backing up existing config file
+2015-12-11 20:21:09,189 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:21:43,923 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:21:43,938 INFO - config-manager - Persisting configuration
+2015-12-11 20:21:43,939 INFO - config-manager - Backing up existing config file
+2015-12-11 20:21:43,977 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:22:38,332 INFO - root - Displaying configuration window
+2015-12-11 20:22:53,772 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:22:58,662 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:22:58,677 INFO - config-manager - Persisting configuration
+2015-12-11 20:22:58,678 INFO - config-manager - Backing up existing config file
+2015-12-11 20:22:58,704 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:34:42,049 INFO - root - Displaying configuration window
+2015-12-11 20:34:52,117 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2015-12-11 20:34:52,122 INFO - config-manager - Persisting configuration
+2015-12-11 20:34:52,124 INFO - config-manager - Backing up existing config file
+2015-12-11 20:34:52,207 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:34:54,415 INFO - root - Shutting down
+2015-12-11 20:34:54,433 INFO - service - Service shutting down
+2015-12-11 20:34:55,431 INFO - config-manager - Persisting configuration
+2015-12-11 20:34:55,438 INFO - config-manager - Backing up existing config file
+2015-12-11 20:34:55,448 INFO - config-manager - Finished persisting configuration - no errors
+2015-12-11 20:34:55,942 INFO - inotify - Shutting down file monitor

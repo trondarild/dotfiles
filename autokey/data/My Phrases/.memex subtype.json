@@ -1,0 +1,31 @@
+{
+    "omitTrigger": false,
+    "filter": {
+        "isRecursive": false,
+        "regex": ".* - gedit"
+    },
+    "usageCount": 0,
+    "description": "memex subtype",
+    "sendMode": "kb",
+    "abbreviation": {
+        "wordChars": "[\\w]",
+        "ignoreCase": false,
+        "backspace": true,
+        "immediate": true,
+        "abbreviations": [
+            ".subt"
+        ],
+        "triggerInside": false
+    },
+    "prompt": false,
+    "matchCase": false,
+    "type": "phrase",
+    "modes": [
+        1
+    ],
+    "hotkey": {
+        "hotKey": null,
+        "modifiers": []
+    },
+    "showInTrayMenu": false
+}

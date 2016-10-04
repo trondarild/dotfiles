@@ -1,0 +1,45 @@
+{
+    "settings": {
+        "hPanePosition": 150,
+        "columnWidths": [
+            150,
+            50,
+            100
+        ],
+        "workAroundApps": ".*VirtualBox.*|krdc.Krdc",
+        "windowDefaultSize": [
+            600,
+            400
+        ],
+        "undoUsingBackspace": true,
+        "enableQT4Workaround": false,
+        "promptToSave": false,
+        "scriptGlobals": {},
+        "isFirstRun": true,
+        "showToolbar": true,
+        "sortByUsageCount": true,
+        "serviceRunning": true,
+        "notificationIcon": "autokey-status",
+        "interfaceType": "XRecord",
+        "showTrayIcon": true,
+        "menuTakesFocus": false
+    },
+    "configHotkey": {
+        "modifiers": [
+            "<super>"
+        ],
+        "hotKey": "k",
+        "enabled": true
+    },
+    "version": "0.90.4",
+    "toggleServiceHotkey": {
+        "modifiers": [
+            "<shift>",
+            "<super>"
+        ],
+        "hotKey": "k",
+        "enabled": true
+    },
+    "userCodeDir": null,
+    "folders": []
+}
