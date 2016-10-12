@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Dayle Rees Color Schemes/legacy/Grunge.tmTheme",
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Processing"
+	],
+	"tab_size": 3
+}
